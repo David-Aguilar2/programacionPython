@@ -1,5 +1,5 @@
 def cuadrado(lado):
     area=lado*lado
-    print(area)
-
+    print(f"El área del cuadrado es {area}")
+ 
 cuadrado(6)
